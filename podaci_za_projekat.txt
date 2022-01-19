@@ -1,0 +1,59 @@
+--Vrnjacka Banja
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Veljko', 'Zupac', '5702030685095', 4900000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Pavle', 'Milosevic', '9964828929994', 800000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Andrija', 'Jovanovic', '9195181141272', 1600000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Irena', 'Lakovic', '7588259049342', 20000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Miljana', 'Tlacinac', '3913390337473', 780000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Stefan', 'Vukoicic', '5793529899922', 900000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Luka', 'Protic', '0788356212371', 6180000, 1);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Milica', 'Nikolic', '8837885875669', 100000, 1);
+
+
+--Nis
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Petar', 'Radulovic', '6995533873934', 160000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Dimitrije', 'Milojkovic', '9993315349614', 70000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Luka', 'Sokolovic', '9260826151911', 85000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Marko', 'Spahic', '5202532988077', 300000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Sara', 'Ilic', '6117627685843', 750000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Tamara', 'Vasic', '0237123825230', 120000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Lazar', 'Markovic', '3599815081646', 4750000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Tijana', 'Stefanovic', '1582787301524', 1800000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Vanja', 'Mladenovic', '9725570065721', 1100000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Darko', 'Spasojevic', '8180884611117', 70000, 2);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Dragana', 'Milojevic', '4542524090116', 10000, 2);
+
+
+--Beograd
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Lazar', 'Gavrilovic', '3815665848626', 60000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Damjan', 'Pecic', '4735905777483', 400000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Isidora', 'Stojkovic', '9143212914155', 700000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Ivana', 'Radovanovic', '5159070405188', 710000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Goran', 'Lazic', '8790651966375', 440000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Vladan', 'Nikolic', '3327551405728', 1020000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Milena', 'Jovanovic', '5226409238780', 330000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Igor', 'Spasic', '7930068753090', 500000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Nikolina', 'Sreckovic', '9202463949925', 370000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Natalija', 'Aleksic', '1346956573467', 510000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Boban', 'Krstic', '7575060441300', 620000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Srdjan', 'Vlahovic', '2385631127918', 1100000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Andjela', 'Mitrovic', '1148924459228', 640000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Ana', 'Bogdanovic', '1011825340953', 140000, 3);
+INSERT INTO Stanovnici(Ime, Prezime, JMBG, Novac, GradStanovanjaID) VALUES ('Slavoljub', 'Stanimirovic', '3568052830342', 10000, 3);
+
+
+--Gradovi
+INSERT INTO Gradovi(Naziv, BrojStanovnika, BrojNekretnina) VALUES ('Vrnjacka Banja', 0, 0);
+INSERT INTO Gradovi(Naziv, BrojStanovnika, BrojNekretnina) VALUES ('Nis', 0, 0);
+INSERT INTO Gradovi(Naziv, BrojStanovnika, BrojNekretnina) VALUES ('Beograd', 0, 0);
+
+UPDATE Gradovi
+set BrojStanovnika = 
+(SELECT COUNT(*) from Stanovnici
+where Gradovi.ID = Stanovnici.GradStanovanjaID)
+
+
+--Kompanije
+INSERT INTO Kompanije(Naziv) VALUES ('Nekretnine svuda');
+INSERT INTO Kompanije(Naziv) VALUES ('Montazna izgradnja');
+INSERT INTO Kompanije(Naziv) VALUES ('Kljuc u ruke');
+INSERT INTO Kompanije(Naziv) VALUES ('PIB nekretnine');

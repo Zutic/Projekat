@@ -1,0 +1,172 @@
+.GlavniKontejner
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    background-color: #0b0c10;
+}
+
+.Upravljanje
+{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    flex-grow: 1;
+}
+
+.Upravljanje button
+{
+    display: flex;
+    justify-content:center;
+}
+
+.DugmePotvrde
+{
+    display: flex;
+    justify-content:center;
+    margin: 2px 2px 2px 2px;
+}
+
+.Naslov
+{
+    font-size: 20px;
+    margin: 10px;
+    display: flex;
+    order: -1;
+}
+
+.Forma
+{
+    border: 5px solid black;  
+    display: flex;
+    flex-direction: column;
+}
+
+.LabeleDodavanja
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 8px;
+}
+
+.IzborDodavanja
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.OdabraneNekretnine
+{
+    background-color:#0b0c10;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+}
+
+.GornjiDeo
+{
+    display: flex;
+    flex-direction: row;
+    background-color: #1f2833;
+    justify-content: space-between;
+}
+
+.Dugmad
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.Dugmad button
+{
+    height: 40px;
+    width: 80px;
+}
+
+.DugmeSrusi
+{
+    background-color:rgb(230, 29, 29);
+    color: snow;
+}
+
+.InfoDeo
+{
+    background-color: #0b0c10;
+}
+
+.FotoDeo
+{
+    background-color: #c5c6c7;
+}
+
+.UgovorDeo
+{
+    border: 2px solid black;
+    background-color:#1f2833;
+}
+
+.NekretninaProzor
+{
+    border: 2px solid black;
+    background-color: #45a29e;
+    margin: 2px 2px 2px 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Gradovi
+{
+    display: flex;
+    /*flex-direction: column;*/
+}
+
+.Red
+{
+    margin: 2px 2px 2px 2px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.myChart
+{
+    color: snow;
+    width:100%;
+    height: 100%;
+    max-width: 350px;
+    display: flex;
+    align-items: stretch;
+}
+
+body
+{
+    color: snow;
+    background-color:#1f2833;
+}
+
+button
+{
+    color: black;
+    background-color: #66fcf1;
+}
+
+img
+{
+    width: 200px;
+    height: 120px;
+    margin: 5px;
+}
+select
+{
+    margin: 1px;
+}
+
+input
+{
+    margin: 1px;
+}
